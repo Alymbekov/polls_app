@@ -1,0 +1,11 @@
+li a {
+    color: white;
+}
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1574338619981-b3d744f00bdd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
